@@ -1,0 +1,47 @@
+2023-11-25 19:50:51,338 INFO n = 7
+2023-11-25 19:50:51,338 INFO suitable
+2023-11-25 19:50:52,758 INFO k = 3
+2023-11-25 19:50:52,758 INFO hidden_num = 3
+2023-11-25 19:51:11,049 INFO input num = 4
+2023-11-25 19:51:11,049 INFO suitable
+2023-11-25 19:51:11,049 INFO the number isn't guessed
+2023-11-25 19:51:15,591 INFO input num = 3
+2023-11-25 19:51:15,591 INFO suitable
+2023-11-25 19:51:15,591 INFO the number is guessed
+2023-11-25 19:51:47,657 INFO n = 10
+2023-11-25 19:51:47,657 INFO suitable
+2023-11-25 19:51:49,668 INFO k = 5
+2023-11-25 19:51:49,668 INFO hidden_num = 2
+2023-11-25 19:51:51,149 INFO input num = 3
+2023-11-25 19:51:51,149 INFO suitable
+2023-11-25 19:51:51,149 INFO the number isn't guessed
+2023-11-25 19:51:53,716 INFO input num = 2
+2023-11-25 19:51:53,718 INFO suitable
+2023-11-25 19:51:53,718 INFO the number is guessed
+2023-11-25 19:56:58,945 INFO n = 10
+2023-11-25 19:56:58,946 INFO suitable
+2023-11-25 19:56:59,813 INFO k = 5
+2023-11-25 19:56:59,813 INFO hidden_num = 2
+2023-11-25 19:57:00,971 INFO input num = 3
+2023-11-25 19:57:00,972 INFO suitable
+2023-11-25 19:57:00,972 INFO the number isn't guessed
+2023-11-25 19:57:03,260 INFO input num = 1
+2023-11-25 19:57:03,260 INFO suitable
+2023-11-25 19:57:03,260 INFO the number isn't guessed
+2023-11-25 19:57:04,769 INFO input num = 2
+2023-11-25 19:57:04,769 INFO suitable
+2023-11-25 19:57:04,769 INFO the number is guessed
+2023-11-25 19:57:38,085 INFO n = 7
+2023-11-25 19:57:38,085 INFO suitable
+2023-11-25 19:57:39,015 INFO k = 3
+2023-11-25 19:57:39,015 INFO hidden_num = 7
+2023-11-25 19:57:40,302 INFO input num = 2
+2023-11-25 19:57:40,302 INFO suitable
+2023-11-25 19:57:40,303 INFO the number isn't guessed
+2023-11-25 19:57:43,800 INFO input num = 5
+2023-11-25 19:57:43,800 INFO suitable
+2023-11-25 19:57:43,800 INFO the number isn't guessed
+2023-11-25 19:57:46,069 INFO input num = 6
+2023-11-25 19:57:46,069 INFO suitable
+2023-11-25 19:57:46,069 INFO the number isn't guessed
+2023-11-25 19:57:46,069 INFO attempts ended
